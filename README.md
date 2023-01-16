@@ -2,4 +2,4 @@
 
 A simple java project for tutorial.
 
-Test Project
+Test Project for demo
